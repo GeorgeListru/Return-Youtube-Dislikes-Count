@@ -16,5 +16,5 @@ Aveți nevoie de un fișier numit ``` client_secret.json ```. Acesta poate fi ob
 6. Odată ajunși la final, apăsați pe ``` PUBLISH APP ```
 7. Intrați la ``` Credentials ```, apoi la ``` CREATE CREDENTIALS ``` selectați ``` OAuth client ID ```
 8. Alegeți tipul aplicației ``` Desktop app ``` și dați-i o denumire, după care apăsați ``` Create ```
-9. Pe ecran ar trebui să apară o fereastră cu informațiile despre client. Apăsați pe ``` DOWNLOAD JSON ``` pentru a descărca fișierul.
+9. Pe ecran va apărea o fereastră cu informațiile despre client. Apăsați pe ``` DOWNLOAD JSON ``` pentru a descărca fișierul.
 10. Redenumiți fișierul în ``` client_secret.json ``` și mutațil în mapa proiectului.
