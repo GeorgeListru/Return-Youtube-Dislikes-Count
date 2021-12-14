@@ -1,5 +1,5 @@
 # Return Youtube Dislikes Count
-Proiectul preia numărul de dislike-uri de la fiecare videoclip și îl inserează în descrierea acestuia folosind Youtube Data API V3
+Proiectul preia numărul de dislike-uri de la fiecare videoclip și îl inserează în descrierea acestuia folosind Youtube Data API v3
 
 ### Codul Sursă
 ```bash
